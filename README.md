@@ -14,6 +14,8 @@ The one where we meetup to discuss computer vision papers, most of the folks att
 | [On Distillation of Guided Diffusion Models](https://arxiv.org/abs/2210.03142) | [Annotated Paper](https://utoronto-my.sharepoint.com/:o:/r/personal/rishit_dagli_mail_utoronto_ca/Documents/UofT%20CV%20Rishit?d=w5e9f79a8f46f48e4a279ce196a9b67b1&csf=1&web=1&e=W2DSTV) | [YouTube](https://www.youtube.com/watch?v=q3ZTfbgBVsQ) | July 28, 2023 | Rishit Dagli |
 | [3D Registration with Maximal Cliques](https://arxiv.org/abs/2305.10854) | [Annotated Paper](https://www.cs.toronto.edu/~rishit/cvdg/5.pdf) | [YouTube](https://www.youtube.com/watch?v=cG_U9RYRFHw) | August 1, 2023 | Shivesh Prakash, Manish Reddy, Bhavya Bhatt |
 | [Computational Design of High-Level Interlocking Puzzles](https://dl.acm.org/doi/abs/10.1145/3528223.3530071) | [Annotated Paper](https://drive.google.com/file/d/12QT0uq6TplP9IJMHQjz_-bZCpqkXvVV0/view?usp=sharing) | [YouTube](https://www.youtube.com/watch?v=iWDge967U1E) | October 21, 2023 | Shivesh Prakash, Manish Reddy, Bhavya Bhatt |
+| [Wonder3D: Single Image to 3D using Cross-Domain Diffusion](https://doi.org/10.48550/arXiv.2310.15008) | [Annotated Paper](https://drive.google.com/file/d/12QT0uq6TplP9IJMHQjz_-bZCpqkXvVV0/view?usp=sharing) | [YouTube](https://www.youtube.com/watch?v=mr_TLUivGOI) | November 9, 2023 | Rishit Dagli |
+| [LDM3D-VR: Latent Diffusion Model for 3D VR](https://doi.org/10.48550/arXiv.2311.03226) | [Annotated Paper](https://drive.google.com/file/d/12QT0uq6TplP9IJMHQjz_-bZCpqkXvVV0/view?usp=sharing) | [YouTube](https://www.youtube.com/watch?v=5ItIAUoQLPA) | November 18, 2023 | Manish Reddy, Bhavya Bhatt |
 
 
 ### Research Oral
