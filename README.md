@@ -2,6 +2,12 @@
 
 This page contains information about the previous and upcoming club activities as well as accompanying content from our past activities.
 
+### Paper Breakdown
+
+| Paper | Slides | Video | Date | Run By |
+| ----- | ------ | ----- | ---- | ------ |
+| [Attention is All You Need](https://arxiv.org/abs/1706.03762) | [Slides](https://docs.google.com/presentation/d/1TK4wwft8bscueHhu4ZekLrten9gby9KKNvKnli9RTJA/edit?usp=sharing) | [Video](https://www.youtube.com/watch?v=dZ2dUyUZLE8) | December 1, 2023 | Shivesh Prakash, Aryaman Bansal |
+
 ### Paper Discussion
 
 The one where we meetup to discuss computer vision papers, most of the folks attending this are expected to have read the paper or looked over it earlier. Recently we though it would be nice to get together and talk about CVPR 2023 papers.
