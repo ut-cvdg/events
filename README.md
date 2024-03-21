@@ -7,6 +7,7 @@ This page contains information about the previous and upcoming club activities a
 | Paper | Slides | Video | Date | Run By |
 | ----- | ------ | ----- | ---- | ------ |
 | [Attention is All You Need](https://arxiv.org/abs/1706.03762) | [Slides](https://docs.google.com/presentation/d/1TK4wwft8bscueHhu4ZekLrten9gby9KKNvKnli9RTJA/edit?usp=sharing) | [Video](https://www.youtube.com/watch?v=dZ2dUyUZLE8) | December 1, 2023 | Shivesh Prakash, Aryaman Bansal |
+| [TRACE: 5D Temporal Regression](https://arxiv.org/abs/2306.02850) | [Slides](https://docs.google.com/presentation/d/14bYcappNdeSNFNtfq_eQ8DiejIzi5lNH-zwOnkhtWGw/edit?usp=sharing) | [Video](https://youtube.com/live/Yz4geQ_EbIM) | March 20, 2024 | Shivesh Prakash, Aryaman Bansal |
 
 ### Paper Discussion
 
