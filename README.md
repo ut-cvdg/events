@@ -31,9 +31,9 @@ The one where we meetup to discuss computer vision papers, most of the folks att
 | [Exploring Graph-based Knowledge: Multi-Level Feature Distillation via Channels Relational Graph](https://doi.org/10.48550/arXiv.2405.08547) | [Notes](https://drive.google.com/file/d/1qUvb1g3FdehiZZATijNC6fFfV1VzEHfy/view?usp=sharing) | [YouTube](https://www.youtube.com/watch?v=FVVdOi0JM1c) | May 25, 2024 | Vedant Swamy |
 | [Pandora: Towards General World Model with Natural Language Actions and Video States](https://arxiv.org/abs/2406.09455) | [Notes](https://drive.google.com/file/d/1wFIXw93W54BCnOjxpoYuBJJ4KVfFxu3O/view?usp=sharing) | [YouTube](https://www.youtube.com/watch?v=k_6AeI8lVyk) | June 1, 2024 | Shivesh Prakash |
 | [MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model](https://arxiv.org/abs/2405.20222) | [Soon]() | [YouTube](https://www.youtube.com/watch?v=phqv3pShTtI) | June 8, 2024 | Rishit Dagli, Aryaman Bansal |
-| [pOps: Photo-Inspired Diffusion Operators](https://arxiv.org/abs/2406.01300) | [Soon]() | [YouTube](https://www.youtube.com/watch?v=gUp23q5tW3A) | June 15, 2024 | Vedant Swamy |
+| [pOps: Photo-Inspired Diffusion Operators](https://arxiv.org/abs/2406.01300) | [Notes](https://docs.google.com/document/d/1xMmKN2gO64aYdFdFO7zXacIZWr0y1CVzcmnZ_Tw7YXE/edit) | [YouTube](https://www.youtube.com/watch?v=gUp23q5tW3A) | June 15, 2024 | Vedant Swamy |
 | [Generative Image Dynamics](https://arxiv.org/abs/2309.07906) | [Soon]() | [YouTube](https://www.youtube.com/watch?v=AOLyfdGPIXw) | July 6, 2024 | Rishit Dagli |
-| [MAVIS: Mathematical Visual Instruction Tuning](https://arxiv.org/abs/2407.08739) | [Soon]() | [YouTube](https://www.youtube.com/watch?v=wzC3j5UYU5Q) | July 22, 2024 | Vedant Swamy |
+| [MAVIS: Mathematical Visual Instruction Tuning](https://arxiv.org/abs/2407.08739) | [Notes](https://docs.google.com/document/d/1bjLm9OI5lKhwOUFiZfRccE0suHAudEX_qufvVaTNvVk/edit) | [YouTube](https://www.youtube.com/watch?v=wzC3j5UYU5Q) | July 22, 2024 | Vedant Swamy |
 | [Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion](https://arxiv.org/abs/2407.13759) | [Soon]() | [YouTube](https://www.youtube.com/watch?v=EFwmm29UBwQ) | July 27, 2024 | Rishit Dagli |
 
 
