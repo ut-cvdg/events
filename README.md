@@ -13,6 +13,8 @@ The one where we breakdown foundational models and paper to a high-school level 
 | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | [Slides](https://github.com/ut-cvdg/paper-breakdown/blob/main/ddpm-and-diffusion-models/Diffusion%20-%20UofTCV.pptx) | [Video](https://www.youtube.com/watch?v=CJhWUVZaMU8) | August 3, 2024 | Alex Rosen |
 | [Graph Neural Networks](https://arxiv.org/abs/1609.02907) | [Slides](https://github.com/ut-cvdg/paper-breakdown/blob/main/graph-neural-networks/GNN%20-%20UofTCV.pdf) | [Video](https://www.youtube.com/watch?v=D0HkpGDs9IY) | August 10, 2024 | Aryaman Bansal, Shivesh Prakash |
 | [Reinforcement Learning](https://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf) | [Slides](https://github.com/ut-cvdg/paper-breakdown/blob/main/reinforcement-learning/Reinforcement%20Learning.pdf) | [Video](https://www.youtube.com/watch?v=v08t8SJ2zrs) | August 17, 2024 | Vedant Swamy |
+| [Neural Radiance Fields](https://arxiv.org/abs/2003.08934) | [Slides](https://github.com/ut-cvdg/paper-breakdown/blob/main/nerfs/NeRFs%20-%20UofTCV.pdf) | [Video](https://www.youtube.com/watch?v=IorN_j74H38) | September 21, 2024 | Shivesh Prakash, Vedant Swamy |
+| [Object Detection]() | [Slides]() | [Video]() | November 2, 2024 | Prashanth Reddy |
 
 ### Paper Discussion
 
